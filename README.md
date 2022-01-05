@@ -60,7 +60,6 @@ function animation( time ) {
 
 }
 ```
-
 If everything went well, you should see [this](https://jsfiddle.net/vy29n6aj/).
 
 ### Cloning this repository ###
