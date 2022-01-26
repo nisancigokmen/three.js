@@ -79,3 +79,8 @@ git clone --depth=1 https://github.com/mrdoob/three.js.git
 [npmtrends-url]: https://www.npmtrends.com/three
 [lgtm]: https://img.shields.io/lgtm/alerts/github/mrdoob/three.js
 [lgtm-url]: https://lgtm.com/projects/g/mrdoob/three.js/
+
+
+  <br> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=22&lines=Thanks+for+visiting)](https://git.io/typing-svg)
