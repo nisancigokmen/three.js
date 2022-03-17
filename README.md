@@ -27,6 +27,7 @@ let geometry, material, mesh;
 init();
 
 
+
 function init() {
 
 	camera = new THREE.PerspectiveCamera( 70, window.innerWidth / window.innerHeight, 0.01, 10 );
@@ -84,5 +85,6 @@ git clone --depth=1 https://github.com/mrdoob/three.js.git
 
 
   <br> 
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=22&lines=Thanks+for+visiting)](https://git.io/typing-svg)
